@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="19" name="Style Sheets" />
+        <language minSize="59" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="pymongo" />
+            <item index="1" class="java.lang.String" itemvalue="six" />
+            <item index="2" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="4" class="java.lang.String" itemvalue="Flask-PyMongo" />
+            <item index="5" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="6" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="7" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="8" class="java.lang.String" itemvalue="docker-compose" />
+            <item index="9" class="java.lang.String" itemvalue="cloudinary" />
+            <item index="10" class="java.lang.String" itemvalue="colorama" />
+            <item index="11" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="12" class="java.lang.String" itemvalue="Flask" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
